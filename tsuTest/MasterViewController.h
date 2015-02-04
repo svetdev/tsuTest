@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Parse/Parse.h"
+#import "Artist.h"
 
 @class DetailViewController;
 
