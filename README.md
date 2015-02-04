@@ -20,5 +20,6 @@ Title
 Description
 Image
 Include UNIT TESTS on your work.
-Commit your quiz to a public repo on GitHub and send the link.
-Have fun!
+
+![screen1](https://github.com/svetdev/tsuTest/blob/master/tsuTest/screen1.png)
+![screen2](https://github.com/svetdev/tsuTest/blob/master/tsuTest/screen2.png)
